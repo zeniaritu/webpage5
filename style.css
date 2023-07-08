@@ -1,0 +1,29 @@
+body{
+    background-image: url(img/background4.jpg);
+    width: 100vw;
+    height: 100vw;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.btn-color{
+    background-color: #0e1c36;
+    color: #fff;
+    
+  }
+  
+  .profile-image-pic{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+  }
+  
+  a{
+    text-decoration: none;
+  }
+  .B{
+    color: rgb(0, 217, 255);
+  }
+  .D{
+    color: aqua;
+  }
